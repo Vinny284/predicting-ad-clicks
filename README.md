@@ -17,7 +17,7 @@ Through some experimentation, I found that when the number of impressions in the
 
 ## The Model
 
-The data is unbalanced so I am oversampling the smaller class in the training to counter this. I am using a 80/20 train/test split for the data and I have removed outliers. The chosen model is a random forest classifier, since the data is not neccessarily linear and it can be easily tuned to under or over fit to the data. I am using precision, recall and f1 score as my oerformance metrics. The model when run outputs:
+The data is unbalanced so I am oversampling the smaller class in the training to counter this. I am using a 80/20 train/test split for the data and I have removed outliers. The chosen model is a random forest classifier, since the data is not neccessarily linear and it can be easily tuned to under or over fit to the data. I am using precision, recall and f1 score as my oerformance metrics. The model in final_model.py when run outputs:
 
 TRAINING METRICS: 
  
