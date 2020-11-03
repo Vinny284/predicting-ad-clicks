@@ -22,17 +22,25 @@ The data is unbalanced so I am oversampling the smaller class in the training to
 TRAINING METRICS: 
 
 Confusion matrix:
+
 [[7137  247]
  [ 617 2497]]
+ 
 Recall: 80.18625561978163
+
 Precision: 90.99854227405248
+
 F1 Score: 85.25093888699216
 
 TEST METRICS: 
 
 Confusion matrix:
+
 [[783  37]
  [ 47 114]]
+ 
 Recall: 70.80745341614907
+
 Precision: 75.49668874172185
+
 F1 Score: 73.07692307692308
