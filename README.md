@@ -13,7 +13,7 @@ Since the file has already been modified, the data is already clean, i.e. there 
 There are around 7 times more no-clicks than clicks.
 The sites most likely to get clicks are blog sites and opinion sites.
 The sites least likely to get clicks are document sites, social media measurment sites and news sites.
-Through some experimentation, I found that when the number of impressions in the test data were capped at 5, the predicted number of clicks did not change significantly on average. This is a cutoff point where further views won't affect the number of clicks by much.
+Through some experimentation, I found that when the number of ad views in the test data were capped at 5, the predicted number of clicks did not change significantly on average. This is a cutoff point where further views won't affect the number of clicks by much.
 
 ## The Model
 
